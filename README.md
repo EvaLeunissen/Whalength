@@ -1,2 +1,2 @@
-# Whalelength
-GUI code for measure whales in drone images
+# Whalength
+GUI code for measuring whales in drone images
