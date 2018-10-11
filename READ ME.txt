@@ -1,0 +1,9 @@
+To run the Whalength program:
+
+1. Unzip the 'Whalength code' zip file. This folder contains the main function 'Whalength.m' and subfunctions that are automatically called from whithin Whalength.m. Please do not move any of these files from the folder as it was downloaded.
+
+2. Start Matlab. In the 'HOME' tab, use the 'open file' button in the top left to browse to the Whalength code folder and open the file 'Whalength.m' - the Whalength script will open in the editor.
+
+3. Click on the 'EDITOR' tab and press the green 'Run' button. This will open the Whalength GUI.
+
+See the pdf file 'Instructions for using whalength' for further instructions on how to use the GUI.
